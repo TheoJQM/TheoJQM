@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on differents dev projects at [ETNA](etna.io) (private school in Paris)!
+- 🔭 I’m currently working on differents dev projects at [ETNA](https://etna.io) (private school in Paris)!
   
 - 🌱 I’m currently learning how to make mobile apps!
   
