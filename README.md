@@ -9,7 +9,7 @@ Hello, my name is Theo, i'm currently learning Computer science at [ETNA](https:
 - 💬 Ask me about my favorites programming languages and how tasteful is my tiramisu.
   
 - 📫 How to reach me:
-  - [Linkedin](www.linkedin.com/in/theojqm)
+  - [Linkedin](https://www.linkedin.com/in/theojqm/)
   - [Mail](tjacqu01@gmail.com)
     
 - ⚡ Fun fact:
