@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-Here are some ideas to get you started:
+Hello, my name is Theo, i'm currently learning Computer science at [ETNA](https://etna.io) (private school in Paris)!
 
-- 🔭 I’m currently working on differents dev projects at [ETNA](https://etna.io) (private school in Paris)!
+- 🔭 I’m currently working on differents dev projects at ETNA.
   
 - 🌱 I’m currently learning how to make mobile apps!
   
