@@ -10,7 +10,7 @@ Hello, my name is Theo, i'm currently learning Computer science at [ETNA](https:
   
 - 📫 How to reach me:
   - [Linkedin](https://www.linkedin.com/in/theojqm/)
-  - [Mail](tjacqu01@gmail.com)
+  - [Mail](mailto:tjacqu01@gmail.com)
     
 - ⚡ Fun fact:
   - I'm colorblind so don't ask me about colors 🥲
