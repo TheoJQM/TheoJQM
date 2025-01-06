@@ -13,9 +13,8 @@ Hello, my name is Theo, i'm currently learning Computer science at [ETNA](https:
   - [Mail](mailto:tjacqu01@gmail.com)
     
 - ⚡ Fun fact:
-  - I'm colorblind so don't ask me about colors 🥲
-  - Vive la France 🇫🇷
-  -  Pain au chocolat > Chocolatine
+  - I'm colorblind so i’m not really good with colors😅
+  - We say "cRRRoisant"
 
  
 
